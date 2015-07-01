@@ -1,0 +1,20 @@
+js
+==
+new object						http://jsfiddle.net/E8Cuz/3/
+prototype						http://jsfiddle.net/E8Cuz/3/
+jquery plugin					http://jsfiddle.net/wrGsR/5/
+bind							http://jsfiddle.net/jhzBT/				http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/
+apply							http://jsfiddle.net/LGC2s/
+call							http://jsfiddle.net/efAtj/1/
+function result caching			http://jsfiddle.net/u68q8/3/
+trigger click on position		http://jsfiddle.net/LLRHC/4/
+object without closures			http://jsfiddle.net/JEnZK/1/
+youtube video increase			http://jsfiddle.net/PyGU5/3/
+deferred						http://jsfiddle.net/0vmtj838/
+inheritance in a closure        http://jsfiddle.net/21yxnc60/2/
+inheritance (old)				http://jsfiddle.net/efAtj/1/
+inheritance (new)				http://jsfiddle.net/8nes5kbq/2/
+pure js events					http://jsfiddle.net/nuLt8uyL/
+singleton not using 'this'		http://jsfiddle.net/ecDB6/1/
+singleton using 'this'			http://jsfiddle.net/h4L9gwzn/3/
+multi-instance					http://jsfiddle.net/p1eczps0/
